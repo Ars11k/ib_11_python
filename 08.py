@@ -1,7 +1,0 @@
-firstname=input()
-lastname=input()
-animal=input()
-zodiak=input()
-print('Индивидуальный гороскоп для пользователя', firstname, lastname)
-print('Кем вы были в прошлой жизни:', animal)
-print('Ваш знак зодиака-', zodiak, ', поэтому вы - тонко чувствующая натура')
